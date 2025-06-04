@@ -1,0 +1,1 @@
+The Brick Ball Game is a classic arcade-style game built in Java using JFrame and KeyListener. Players control a paddle to bounce a ball and break bricks. The objective is to clear all the bricks without letting the ball fall.
